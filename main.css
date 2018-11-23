@@ -1,0 +1,138 @@
+body{
+
+    background-color: #F3F3F3;
+
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    margin: 18px;
+    color: #76DC86;
+}
+
+#frageruta{
+
+    position: absolute;
+    background-color: white;
+    width: 90%;
+    height: 30%;
+    left: 5%;
+    top: 4%;
+    border-radius: 24px;
+    box-shadow: 0px 10px 2px rgba(44, 62, 80, 0.10);
+
+}
+
+#datumruta{
+
+    position: absolute;
+    background-color: white;
+    width: 90%;
+    height: 20%;
+    left: 5%;
+    top: 40%;
+    border-radius: 24px;
+    box-shadow: 0px 10px 2px rgba(44, 62, 80, 0.10);
+
+}
+
+#klar{
+
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    bottom: 15px;
+    left: 74%;
+    bottom: 6%;
+    outline: none;
+    border-radius: 25px;
+    border: 0px;
+    box-shadow: 0px 5px 2px rgba(44, 62, 80, 0.10);;
+    background-color: white;
+    background-image: url(bilder/pil.svg);
+
+}
+
+#replay{
+
+    width: 120px;
+    height: 60px;
+    position: absolute;
+    bottom: 15px;
+    left: 10%;
+    bottom: 6%;
+    outline: none;
+    border: 0px;
+    box-shadow: 0px 5px 2px rgba(44, 62, 80, 0.10);;
+    background-color: white;
+    background-image: url(bilder/replay.svg);
+
+}
+
+#input{
+
+    width: 300px;
+    height: 60px;
+    position: absolute;
+    top: 1%;
+    left: 8%;
+    bottom: 6%;
+    box-shadow: 0px 5px 2px rgba(44, 62, 80, 0.10);;
+
+}
+
+#inputtext{
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    width: 300px;
+    height: 60px;
+    position: absolute;
+    top: 1%;
+    left: 8%;
+    bottom: 6%;
+
+}
+
+#månader{
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    width: 300px;
+    height: 10px;
+    position: absolute;
+    top: 44%;
+    left: 8%;
+    bottom: 6%;
+    color: #76DC86;
+
+}
+
+#dagar{
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    width: 300px;
+    height: 10px;
+    position: absolute;
+    top: 44%;
+    left: 58%;
+    bottom: 6%;
+    color: #76DC86;
+
+}
+
+#år{
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    width: 300px;
+    height: 10px;
+    position: absolute;
+    top: 68%;
+    left: 15%;
+    bottom: 6%;
+    color: #76DC86;
+
+}
